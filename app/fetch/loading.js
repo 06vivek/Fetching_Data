@@ -1,3 +1,3 @@
 export default function Loading() {
-  return <p>Loading Pokémon...</p>;
+  return <p>Loading Pokemon data...</p>;
 }
